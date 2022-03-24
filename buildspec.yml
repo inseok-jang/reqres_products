@@ -3,6 +3,7 @@ version: 0.2
 env:
   variables:
     IMAGE_REPO_NAME: "user17-products"
+    AWS_DEFAULT_REGION: "ca-central-1"
 
 phases:
   install:
